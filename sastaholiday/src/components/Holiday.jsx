@@ -911,7 +911,7 @@ export default function Holiday() {
           </div>
           <div>
             <p className="text-slate-800 font-semibold text-sm tracking-wide leading-tight">
-              Voyage CRM
+              Sasta-holiday CRM
             </p>
             <p className="text-xs text-slate-400 leading-tight">
               Lead pipeline
